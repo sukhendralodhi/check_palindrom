@@ -44,7 +44,6 @@ const checkPalindrom = () => {
 
 // event listener 
 btn.addEventListener("click", () => {
-  // console.log(inputField.value);
   // checkPalindrom();
   subStringMethod();
   inputField.value = "";
